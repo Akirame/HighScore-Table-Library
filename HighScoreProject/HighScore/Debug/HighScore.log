@@ -1,0 +1,3 @@
+﻿  HighScoreManager.cpp
+c:\users\administrador\documents\visual studio 2015\projects\highscoreproject\highscore\highscoremanager.cpp(15): warning C4018: '<': no coinciden signed/unsigned
+  HighScore.vcxproj -> c:\users\administrador\documents\visual studio 2015\Projects\HighScoreProject\Debug\HighScore.lib
