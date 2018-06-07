@@ -1,3 +1,4 @@
 ﻿  HighScoreManager.cpp
-c:\users\administrador\documents\visual studio 2015\projects\highscoreproject\highscore\highscoremanager.cpp(15): warning C4018: '<': no coinciden signed/unsigned
-  HighScore.vcxproj -> c:\users\administrador\documents\visual studio 2015\Projects\HighScoreProject\Debug\HighScore.lib
+c:\users\gsvil\documents\proyectos\highscore-table-library\highscoreproject\highscore\highscoremanager.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\gsvil\documents\proyectos\highscore-table-library\highscoreproject\highscore\highscoremanager.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  HighScore.vcxproj -> C:\Users\gsvil\Documents\Proyectos\HighScore-Table-Library\HighScoreProject\Debug\HighScore.lib

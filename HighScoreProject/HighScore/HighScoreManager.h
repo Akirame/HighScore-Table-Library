@@ -21,8 +21,12 @@ namespace hscore
 		~HighScore();
 		void AddScore(string name, int points);
 		Data* GetDataFromName(string name);
+		Data* GetDataFromScore(int score);
+		Data* GetDataFromPosition(int position);
+		int GetPositionFromScore(int score);
+		int GetPositionFromName(string name);
 		void ClearList();
-		void ShowList();
+		void ShowListInConsole();
 		void SortByName();
 		void SortByScore();
 	};
