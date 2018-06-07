@@ -1,4 +1,0 @@
-﻿  HighScoreManager.cpp
-c:\users\gsvil\documents\proyectos\highscore-table-library\highscoreproject\highscore\highscoremanager.cpp(26): warning C4018: '<': signed/unsigned mismatch
-c:\users\gsvil\documents\proyectos\highscore-table-library\highscoreproject\highscore\highscoremanager.cpp(72): warning C4018: '<': signed/unsigned mismatch
-  HighScore.vcxproj -> C:\Users\gsvil\Documents\Proyectos\HighScore-Table-Library\HighScoreProject\Debug\HighScore.lib
